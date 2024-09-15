@@ -1,16 +1,17 @@
-## Hi there 👋
+## welcome to my profile 🪼
 
-<!--
-**bibizlwt/bibizlwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriela Vitória 
 
-Here are some ideas to get you started:
+-I'm currently study english
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-This will be my space to learn more about the JavaScript language and I hope it's cool.
+
+-I'm interested in learning more here
+
+- I LIKE A LOT STRAY KIDS AND GENSHIN IMPACT
+
+## you enter into a contract with me 📫
+
+@bibizlwt
+
+![descrição do GIF](https://tenor.com/pt-BR/view/kaedehara-kazuha-genshin-impact-kazuha-pfp-gif-22099525)
